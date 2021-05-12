@@ -15,5 +15,6 @@ Enhancements or Pending Tasks:
 * Better Error handling
 * UI enhancements like Settings, Weather Detail page, Including Maps to fetch weather etc
 
+![Alt text](AppScreenshot/App.png?raw=true "Title")
 
 
